@@ -1,2 +1,4 @@
 import Blog from '../../components/Blog';
-export default function Page(){return <Blog reader/>}
+export default function Page() {
+  return <Blog reader />;
+}

@@ -1,3 +1,3 @@
-export default function DirectionShell({children}) {
-  return <div className="direction minimal">{children}</div>;
+export default function DirectionShell({ children }) {
+  return <div className="min-h-screen">{children}</div>;
 }
